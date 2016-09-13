@@ -13,6 +13,9 @@
     'license': 'AGPL-3',
     'depends': [
         'project',
+        'project_image',
+        'web_gantt8',
+        'project_gantt8'
     ],
     'data': [
         'views/project_task_view.xml',
